@@ -1,0 +1,94 @@
+Websites:
+
+Rapid7 : https://www.rapid7.com/blog/tag/emergent-threat-response/ (No rss and IOCs)
+
+Malwarebytes : 
+https://www.malwarebytes.com/blog/category/threat-intelligence
+XML https://www.malwarebytes.com/blog/feed/index.xml
+
+
+IBMXForce : 
+https://securityintelligence.com/category/x-force/threat-intelligence/
+XML https://securityintelligence.com/category/x-force/threat-intelligence/feed/
+
+Talos : 
+https://blog.talosintelligence.com/category/threat-advisory/
+https://blog.talosintelligence.com/category/threat-spotlight/
+XML https://blog.talosintelligence.com/rss/
+
+Crowd strike : https://www.crowdstrike.com/blog/category/threat-intel-research/ (not Woking)
+
+Sentinelone : https://www.sentinelone.com/blog/category/from-the-front-lines/
+XML https://www.sentinelone.com/blog/category/from-the-front-lines/feed/
+
+TrendMicro : https://newsroom.trendmicro.com/news-releases?pagetemplate=rss&category=787
+
+Elastic security : https://www.elastic.co/security-labs/topics/campaigns
+XML https://www.elastic.co/security-labs/rss/topics/campaigns.xml
+
+Deepinstinct : https://www.deepinstinct.com/blog/page/1
+
+
+esentire : https://www.esentire.com/resources/blog?blogType%5B%5D=Threat%20Intelligence
+
+Aquasec https://blog.aquasec.com/topic/malware-attacks
+https://blog.aquasec.com/rss.xml
+
+Splunk https://www.splunk.com/en_us/blog/security.html
+
+
+Fortinet https://feeds.fortinet.com/fortinet/blog/threat-research&x=1
+
+Cyble https://cyble.com/blog
+https://cyble.com/feed/
+
+Quick heal https://blogs.quickheal.com/tag/cybersecurity/
+https://blogs.quickheal.com/tag/cybersecurity/feed/
+
+Mandiant https://www.mandiant.com/resources/blog
+https://www.mandiant.com/resources/blog/rss.xml
+
+ATT https://cybersecurity.att.com/blogs/labs-research
+https://cybersecurity.att.com/site/blog-all-rss
+
+IB 
+https://www.group-ib.com/blog/#threat-intelligence
+https://www.group-ib.com/blog/#advanced-persistent-threats #forbidden
+
+asec
+https://asec.ahnlab.com/en/
+https://asec.ahnlab.com/en/feed/
+
+Eset
+https://www.welivesecurity.com/en/malware/
+https://www.welivesecurity.com/en/rss/feed/
+
+Pal Alto
+https://unit42.paloaltonetworks.com/category/threat-briefs-assessments/threat-brief/
+https://unit42.paloaltonetworks.com/category/threat-briefs-assessments/threat-brief/feed/
+
+Proofpoint
+https://www.proofpoint.com/us/blog/threat-insight
+
+Checkpoint
+https://blog.checkpoint.com/research/ #Restricted
+
+Google
+https://blog.google/threat-analysis-group/
+https://blog.google/threat-analysis-group/rss/
+
+Volexity
+https://www.volexity.com/blog/
+
+Malpedia
+https://malpedia.caad.fkie.fraunhofer.de/library
+
+Yoroi
+https://yoroi.company/en/blog/
+
+
+Trellix
+https://www.trellix.com/about/newsroom/stories/research/ (included in malpedia)
+
+Kaspersky
+https://securelist.com/tag/malware/
